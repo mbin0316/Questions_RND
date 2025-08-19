@@ -19,13 +19,13 @@ The task is divided into two main parts:
 
 ## 📂 Repository Structure
 
-.
+```
 ├── Question2.ipynb # Jupyter notebook with full solution for Question 2
 ├── cones/ # (Optional) Place datasets here if not using Google Drive
 ├── README.md # Project documentation
 
 
----
+```
 
 ## ⚙️ Requirements
 

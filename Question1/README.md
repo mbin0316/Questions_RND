@@ -5,14 +5,14 @@ This repository contains the solution for **Question 1** of the assignment. The 
 ---
 
 ## 📂 Repository Structure
-
+```
 .
 ├── Question1.ipynb # Jupyter notebook with full solution for Question 1
 ├── cars_data.csv/ # Cars dataset
 ├── README.md # Project documentation
 
 
----
+```
 
 ## ⚙️ Requirements
 
