@@ -28,13 +28,12 @@ Install dependencies:
 
 ## Usage  
 
-1. Place your PDF (e.g., `COVID19_sitrep_MYS_w-46--47.pdf`) inside the `data/` folder.  
-2. Update the file path in the script (`pdf_path`).  
-3. Run the script:  
-   ```bash
-   python main.py
-   ```  
-4. Open the Gradio link (local or public `share=True`) to start asking questions.  
+1. Place your PDF (e.g., `COVID19_sitrep_MYS_w-46--47.pdf`) inside the Question3 folder.  
+2. Open the `question3TM.ipynb` file in **Jupyter Notebook**.  
+3. Install the dependencies directly in Jupyter Notebook using:  
+   ```python
+   !pip install pandas matplotlib seaborn numpy scikit-learn sentence-transformers faiss-cpu gradio PyPDF2 torch
+
 
 ##  Example Questions  
 - *What was the total number of confirmed COVID-19 cases as of 27 November 2022?*  
