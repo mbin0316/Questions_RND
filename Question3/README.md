@@ -2,7 +2,7 @@
 
 This project is a **Question-Answering (QA) system** built on top of Malaysia’s COVID-19 Situation Reports. It extracts text from a PDF, splits it into chunks, creates embeddings using **Sentence Transformers**, indexes them with **FAISS**, and uses **Flan-T5** to generate answers. A **Gradio** interface is provided for easy interaction.  
 
-##Features  
+## Features  
 - Extract text from PDF reports using **PyPDF2**  
 - Split text into manageable chunks for semantic search  
 - Generate embeddings with **SentenceTransformers** (`all-MiniLM-L6-v2`)  
