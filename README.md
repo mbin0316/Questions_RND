@@ -20,7 +20,7 @@ All projects are developed using **Python** and **Jupyter Notebooks**, with stru
 This project performs a full **machine learning pipeline** on a car dataset,from cleaning and exploration to model training and evaluation. Details of this project explanation including the breakdown of components and code can be found in the readme.md file of Question1 subfolder.
 
 ## 🧩 Question 2 — Cone Detection and GPS Mapping
-**File:** `Question2TM.ipynb, Question2_2TM.ipynb `
+**File:** `Question2TM.ipynb, Question2_2TM.ipynb`
 **Focus:** Object detection using YOLOv8 and GPS coordinate mapping with EXIF metadata.
 
 ### 🧠 Overview
