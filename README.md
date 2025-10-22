@@ -1,6 +1,6 @@
 # 🧠 Questions_RND Project
 
-This repository contains three independent subprojects, each demonstrating a different domain of data analysis, computer vision, and natural language processing (NLP).  
+This repository contains three independent subprojects authored by Mohamad Akmal , each demonstrating a different domain of data analysis, computer vision, and natural language processing (NLP).  
 All projects are developed using **Python** and **Jupyter Notebooks**, with structured workflows and clear documentation.
 
 ---
